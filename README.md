@@ -7,3 +7,4 @@ React_to_do_list_project(개인 프로젝트)
 # Skills
 * React
 * javascript
+* HTML/CSS
